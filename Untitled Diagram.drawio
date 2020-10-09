@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T11:39:28.411Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2xnNWepsvTf03dKdXZ_2" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T12:11:50.114Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9GwkpwJ2JbdoD-BJMqmL" version="13.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,15 +78,6 @@
         <mxCell id="Et6rMjXYBVE10G3ZFk7t-27" value="Human Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="177.5" y="60" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Et6rMjXYBVE10G3ZFk7t-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Et6rMjXYBVE10G3ZFk7t-28" target="Et6rMjXYBVE10G3ZFk7t-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="40" y="78" />
-              <mxPoint x="40" y="260" />
-              <mxPoint x="165" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Et6rMjXYBVE10G3ZFk7t-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Et6rMjXYBVE10G3ZFk7t-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="186" y="130" as="targetPoint" />
@@ -118,7 +109,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Et6rMjXYBVE10G3ZFk7t-45" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="155" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Et6rMjXYBVE10G3ZFk7t-51" value="Send Currrent&lt;br&gt;&amp;amp; ID Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="392.5" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et6rMjXYBVE10G3ZFk7t-56" value="Add Device ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="402.5" y="245" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et6rMjXYBVE10G3ZFk7t-59" value="Read Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="392.5" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et6rMjXYBVE10G3ZFk7t-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
